@@ -10,32 +10,6 @@
   border-color: transparent;
   background-color: rgba(26, 26, 26, 1);
 }
-.d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame6 {
-  top: 511px;
-  left: 70px;
-  width: 1300px;
-  height: 256px;
-  display: flex;
-  padding: 110px 457px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-color: transparent;
-  justify-content: center;
-}
-.d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame7 {
-  top: 767px;
-  left: 70px;
-  width: 1300px;
-  height: 256px;
-  display: flex;
-  padding: 110px 457px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-color: transparent;
-  justify-content: center;
-}
 .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame4 {
   top: 96px;
   left: 0px;
@@ -44,12 +18,15 @@
   height: 65px;
   margin: auto;
   display: flex;
-  padding: 110px 457px;
   position: absolute;
   align-items: center;
   flex-shrink: 0;
+  padding-top: 0px;
   border-color: transparent;
+  padding-left: 0px;
+  padding-right: 0px;
   flex-direction: row;
+  padding-bottom: 0px;
   justify-content: center;
 }
 .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-group1 {
@@ -90,40 +67,50 @@
   flex: 1;
   left: 0px;
   right: 0px;
-  width: 1300px;
+  width: 1013px;
   bottom: 0px;
   height: 255px;
   margin: auto;
   position: absolute;
 }
 @media(max-width: 991px) {
+  .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame4 {
+    width: 774px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
   .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame5 {
     left: 0px;
     right: 0px;
-    width: 985px;
+    width: 780px;
     margin: auto;
     padding: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 767px) {
   .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame4 {
+    width: 479px;
     padding-top: 0px;
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
   }
   .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame5 {
-    width: 504px;
+    width: 483px;
   }
 }
 @media(max-width: 479px) {
   .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame4 {
+    width: 320px;
     padding-top: 0px;
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
   }
   .d-e-s-k-t-o-p-m-i-x-y-z-a-r-t1-frame5 {
-    width: 471px;
+    width: 348px;
+    height: 272px;
   }
 }
